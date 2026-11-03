@@ -126,3 +126,7 @@ history | tail -10
 ## Lesson 6.1: Git Basics
 git config --list, git init, git status, git add, git commit, git log
 3 commits: Style, Fix, Docs - completed
+
+## Lesson 6.1: Git Basics
+git config --list, git init, git status, git add, git commit, git log
+3 commits: Style, Fix, Docs - completed
