@@ -122,3 +122,7 @@ wc -l assets/css/styles.css
 
 # Q4: Last 10 commands?
 history | tail -10
+
+## Lesson 6.1: Git Basics
+git config --list, git init, git status, git add, git commit, git log
+3 commits: Style, Fix, Docs - completed
