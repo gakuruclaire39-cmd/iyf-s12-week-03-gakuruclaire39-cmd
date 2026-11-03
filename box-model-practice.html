@@ -1,1 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Box Model - Claire Wairimu</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="projects.html">Projects</a>
+<a href="contact.html">Contact</a>
+<a href="box-model-practice.html" class="active">Box Model</a>
+</nav>
+</header>
 
+<main>
+<h1>Task 3.2: Box Model Mastery</h1>
+
+<section class="exercise">
+<h2>Exercise 1: Box Model Visualization</h2>
+<p>1. Content (background color)</p>
+<div class="box content-box">Content</div>
+<p>2. Padding (larger click area)</p>
+<div class="box padding-box">Padding</div>
+<p>3. Border (visible border)</p>
+<div class="box border-box-demo">Border</div>
+<p>4. Margin (space between boxes)</p>
+<div class="box margin-box">Margin 1</div>
+<div class="box margin-box">Margin 2</div>
+</section>
+
+<section class="exercise">
+<h2>Exercise 2: Debug the Layout</h2>
+<p><strong>Why 340px?</strong> Default content-box: 300px width + 20px left padding + 20px right padding = 340px.</p>
+<p><strong>Fix:</strong> box-sizing: border-box keeps it 300px total.</p>
+<pre>/* Fixed */ .broken-box { width:300px; padding:20px; box-sizing:border-box; }</pre>
+<div class="broken-box">Fixed - exactly 300px total</div>
+</section>
+
+<section class="exercise">
+<h2>Exercise 3: Card Component</h2>
+<p>Card width: 300px total | Padding: 20px | Border: 1px solid gray | Title 15px margin-bottom</p>
+<div class="card">
+<img src="https://placehold.co/300x180" alt="Card image">
+<h3>Portfolio Card</h3>
+<p>Description text - exact spacing as required.</p>
+<button>View Project</button>
+</div>
+</section>
+
+</main>
+<footer><p>&copy; 2026Claire Wairimu</p></footer>
+</body>
+</html>
