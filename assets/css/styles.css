@@ -985,3 +985,6 @@ input:valid, textarea:valid {
 
 /* Task 6.1 - Style: navigation hover */
 nav a:hover { text-decoration: underline; text-underline-offset: 4px; }
+
+/* Task 6.1 - Fix: responsive breakpoint */
+@media (max-width: 768px) { .projects-grid { grid-template-columns: 1fr; } }
