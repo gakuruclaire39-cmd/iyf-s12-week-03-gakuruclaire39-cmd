@@ -4,11 +4,7 @@ A responsive multi-page portfolio website built for IYF Week 03. This week I lea
 
 ## Live Demo
 
-[View Live Site](https://gakuruclaire39-cmd.github.io/iyf-s12-week-03-gakuruclaire39-cmd)
-
-## Screenshot
-
-![Project Screenshot](./images/screenshot.png)
+[View Live Site](https://gakuruclaire39-cmd.github.io/iyf-s12-week-03-gakuruclaire39-cmd?)
 
 ## Features
 
@@ -24,6 +20,7 @@ A responsive multi-page portfolio website built for IYF Week 03. This week I lea
 - Git & GitHub (branching, merging, .gitignore, remote workflow)
 
 ## Project Structure
+```
 iyf-s12-week-03-gakuruclaire39-cmd/
 ├── index.html
 ├── about.html
@@ -31,13 +28,9 @@ iyf-s12-week-03-gakuruclaire39-cmd/
 ├── contact.html
 ├── css/
 │   └── styles.css
-├── images/
-│   └── screenshot.png
 ├── .gitignore
 └── README.md
-
-
-
+```
 ## What I Learned
 
 **Lesson 6.1 - Git Basics:** Learned conventional commits (Style, Fix, Docs), viewing history with `git log --oneline --graph`, and documenting changes.
