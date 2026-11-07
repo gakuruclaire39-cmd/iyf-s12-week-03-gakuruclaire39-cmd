@@ -19,3 +19,4 @@ echo "# $PROJECT_NAME" > "$PROJECT_NAME"/README.md
 echo "Project $PROJECT_NAME created successfully!"
 echo "Structure:"
 ls -R "$PROJECT_NAME"
+
