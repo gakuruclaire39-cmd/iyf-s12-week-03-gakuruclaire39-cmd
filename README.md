@@ -56,3 +56,25 @@ iyf-s12-week-03-gakuruclaire39-cmd/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Collaboration
+
+I collaborated with **Wairimu Evans** (`WairimuEvans`) on the Week 3 Pair Collaboration Lab.
+
+### Collaboration Links
+
+- **Partner:** [Wairimu Evans](https://github.com/WairimuEvans)
+- **Pair Repository:** [iyf-s12-week-03-pair-gakuruclaire39-cmd](https://github.com/gakuruclaire39-cmd/iyf-s12-week-03-pair-gakuruclaire39-cmd)
+- **My Pull Request:** [Add Claire's Profile Card](feature/claire)
+- **Pull Request I Reviewed:** [Wairimu's Pull Request](feature/evans-update)
+- **
+
+### Collaboration Activities
+
+- Created and managed the shared GitHub repository.
+- Created a personal feature branch.
+- Added my profile card to the shared `index.html`.
+- Opened a Pull Request and requested a review.
+- Reviewed and approved my partner's Pull Request.
+- Practiced resolving Git merge conflicts.
+- Collaborated using Git branches and GitHub Pull Requests.
